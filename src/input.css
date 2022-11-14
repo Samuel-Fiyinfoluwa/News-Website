@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.readme {
+    background-color: hsl(5, 85%, 63%);
+}
+.moreme {
+    background-color: hsl(240, 100%, 5%);
+}
+.line {
+    background-color: hsl(236, 13%, 42%);
+}
+.txt {
+    color: hsl(36, 100%, 99%);
+}
+.gb {
+    color: hsl(233, 8%, 79%);
+}
+.new {
+    color: hsl(35, 77%, 62%);
+}
